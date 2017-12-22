@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.4.1 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=throwzone1pre.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\throwzone1pre -TC:\CooCox\CoIDE\configuration\ProgramData\throwzone1pre/arm-gcc-link.ld -g">
+      <target file="throwzone1pre.elf" lastModified="1607cf6aa93">
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="1607ceb3ff6"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="1607ceb4032"/>
+         <source file="..\obj\main.o" lastModified="1607cf6a8b0"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="1607ceb41ec"/>
+         <source file="..\obj\encoder.o" lastModified="1607ceb4318"/>
+         <source file="..\obj\linefollower.o" lastModified="1607cf4a2c5"/>
+         <source file="..\obj\lcd_hd44780.o" lastModified="1607ceb443e"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="1607ceb44a2"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="1607ceb44fe"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="1607ceb4558"/>
+         <source file="..\obj\misc.o" lastModified="1607ceb45be"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="1607ceb46a4"/>
+      </target>
+   </processor>
+</history>
